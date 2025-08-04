@@ -1,5 +1,5 @@
 # 💫 About Me:
-software engineer and developer<br>
+software engineer and developer and network <br>
 
 
 ## 🌐 Socials:
