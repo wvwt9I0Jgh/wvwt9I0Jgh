@@ -50,13 +50,18 @@ Software Engineer & Developer | Network Enthusiast | Full-Stack & Embedded Syste
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deniz&theme=shadow_red&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deniz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=denizkocak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
-[![](https://visitcount.itsvg.in/api?id=deniz&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/pin/?username=denizkocak&repo=project-x&theme=shadow_red)
+
+![](https://github-readme-stats.vercel.app/api/activity-graph?username=denizkocak&theme=shadow_red&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=denizkocak&theme=shadow_red&langs_count=8)
+
+
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
